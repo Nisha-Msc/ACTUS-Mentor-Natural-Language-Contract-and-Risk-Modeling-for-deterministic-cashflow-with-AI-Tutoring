@@ -5,6 +5,4 @@ ACTUS Mentor uses AI to generate ACTUS request bodies and risk factors from natu
 GitHub Repository: https://github.com/Nisha-Msc/actus-mentor.git
 Note: Private repository - access can be granted to evaluators upon request
 
-# Workflow
-https://docs.google.com/document/d/1mgdgcgG6Xg7VGxkwDhhwc7OfaiY5EOMNW44T6pbaRac/edit?usp=sharing
 
